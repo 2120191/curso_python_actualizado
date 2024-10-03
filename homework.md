@@ -1,5 +1,5 @@
 # actividad del banco:
-""python
+´´´python
 
 class banco:
     def _init_(self, nombre, apellido, dni, numero_cuenta, saldo_inicial):
